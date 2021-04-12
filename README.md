@@ -7,7 +7,7 @@ Derance Insurance provides smart contract insurance across cross-chains with opt
 - Notify users about major events such as voting and governance by reporting in multiple announcement channels. 
 
 ## Token Economics 
-- Issuance of DRC token which acts as governance and utlity token.
+- Issuance of DRC token which acts as governance and utility token.
 - DRC tokens can be used in community incentives, voting representation, converting staking into NFTs, and mining and staking rewards for capital provision to the insurance liquidity pool.
 
 ## Features and Designs 
