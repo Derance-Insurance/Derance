@@ -1,0 +1,34 @@
+[
+  {
+    "icon": "/images/pancake.svg",
+    "name": "PancakeSwap",
+    "type": "Smart contracts",
+    "yearlyCost": null,
+    "address": "0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F",
+    "APY": "2.96%",
+    "description": "The #1 AMM and yield farm on Binance Smart Chain.",
+    "status": "new"
+  },
+
+  {
+    "icon": "/images/bakery.png",
+    "name": "BakerySwap",
+    "type": "Smart contracts",
+    "yearlyCost": null,
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "APY": "13.2%",
+    "description": "The most complete all-in-one project in BSC: AMM + NFT Marketplace. ",
+    "status": "new"
+  },
+
+  {
+    "icon": "/images/blink.png",
+    "name": "Blink",
+    "type": "Smart contracts",
+    "yearlyCost": null,
+    "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
+    "APY": null,
+    "description": "A top Gaming&Mining and Gambling Platform on BSC.",
+    "status": "new"
+  }
+]

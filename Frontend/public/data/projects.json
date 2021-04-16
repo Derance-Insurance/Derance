@@ -1,0 +1,64 @@
+[{
+    "icon": "claim",
+    "name": "TokenFunctions",
+    "type": "Smart contracts",
+    "staked": "23432",
+    "APY": null,
+    "description": "Earn 0.1 KEEP / RANCE weekly!",
+    "address": "0x73ed6619B6e2392032BBb1732399dbAC29Ce062A",
+    "status": "discard"
+},{
+    "icon": "claim",
+    "name": "Pool1",
+    "type": "Smart contracts",
+    "staked": "232",
+    "APY": null,
+    "description": "",
+    "address": "0x1dcB12D64dFAB13E856C22Db806b6b16E9f598D0",
+    "status": "discard"
+},{
+    "icon": "claim",
+    "name": "Quotation",
+    "type": "Custodians",
+    "staked": "23442",
+    "APY": null,
+    "description": "",
+    "address": "0x4e44116d93aE6C51170f781D6D0f4DE63c6A39cc",
+    "status": "discard"
+},{
+    "icon": "claim",
+    "name": "ClaimsReward",
+    "type": "Custodians",
+    "staked": "3432",
+    "APY": null,
+    "description": "Earn 0.1 KEEP / RANCE weekly!",
+    "address": "0x957eD10385b295D3F9747dfC8d555e92a7B43EE1",
+    "status": "discard"
+},{
+    "icon": "claim",
+    "name": "PooledStaking",
+    "type": "Smart contracts",
+    "staked": "34432",
+    "APY": null,
+    "description": "",
+    "address": "0xE736e9b2A602EB8572A63Df37DD045579583990f",
+    "status": "discard"
+},{
+    "icon": "claim",
+    "name": "wRANCE",
+    "type": "Smart contracts",
+    "staked": "2343",
+    "APY": null,
+    "description": "",
+    "address": "0x2f6A32B60B0d55EdEF9e623A7358f06cbC0c0EDd",
+    "status": "discard"
+},{
+    "icon": "claim",
+    "name": "QuotationData",
+    "type": "Smart contracts",
+    "staked": "13432",
+    "APY": null,
+    "description": "",
+    "address": "0x757412Bc060Dfed531C61417d6AbaDdDd10d60ED",
+    "status": "discard"
+}]

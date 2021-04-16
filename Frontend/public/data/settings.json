@@ -1,0 +1,56 @@
+{
+  "contracts": {
+    "MemberRoles": "0xEAdDc2f2D1E64645289d1FCba0C229958Bf1e012",
+    "RANCEMaster": "0x5935F31bc8d219dC507086d1FD501D27e910bD88",
+    "RANCEToken": "0xC1907648731afF41339C82e8Fc40A66b21477FD2",
+    "TokenController": "0xCFF8250047cA06b716fe4A89177Ca99B61c899DD",
+    "TokenFunctions": "0x73ed6619B6e2392032BBb1732399dbAC29Ce062A",
+    "TokenData": "0x3F23527E3799Dc9c4C822551EaF372C2B279Acac",
+    "Pool1": "0x9417062E85BdA03446DDe2bDc483EF05202a9C1F",
+    "PoolData": "0xC2ccde091322a6d2e4fB5B3b030d4bD50c4cF081",
+    "MCR": "0xB28E8d2e0434B80Bad0f447A01DD911c17755b61",
+    "wRANCE": "0x2f6A32B60B0d55EdEF9e623A7358f06cbC0c0EDd",
+    "PooledStaking": "0xf2B4B9Fe0419904cB566cDa6E2c63cfa8A6A856F",
+    "Quotation": "0x4e44116d93aE6C51170f781D6D0f4DE63c6A39cc",
+    "QuotationData": "0x3E528FC44a097e686d9A9eCDEc6B48B9DB08f300",
+    "Claims": "0x94896d3035888eAD328D75597101b332262D8633",
+    "ClaimsData": "0x48d4873C649fe67359E5E1E6D6dA26079D7e52c1",
+    "ClaimsReward": "0x410d54fdeeA3AEf01088955eb9bb93C81BB6Bd42",
+    "ProposalCategory": "0xE411e3cEed3155E4175fCB0633e9786F7b2b0609",
+    "Governance": "0x1C1e631C023F4617FeDe347A3f4062fb21731935"
+  },
+
+  "networkVersion": 97,
+  "stake": {
+    "minAmountPerContract": 20,
+    "maxAmount": 10
+  },
+  "cover": {
+    "minPeriod": 30,
+    "maxPeriod": 365
+  },
+  "claim": {
+    "stake": {
+      "minPeriod": 1,
+      "maxPeriod": 365
+    }
+  },
+  "penaltyRate": 0.975,
+  "quoteapi": "http://api.soteria.fund/v1",
+  "unstakedPendingDay": 90,
+  "bnbQuotesApi": "https://pro-api.coinmarketcap.com/v1",
+  "bnbQuotesKey": "59be5949-c14a-4f89-9ba2-2dc09c3f3993",
+  "uniqueAddresses": "https://testnet.bscscan.com/token/0xC1907648731afF41339C82e8Fc40A66b21477FD2",
+  "features": {
+    "start": true,
+    "Membership": true,
+    "Swap": true,
+    "system": true,
+    "Cover": true,
+    "Stake": true,
+    "Claim": true,
+    "Governance": true,
+    "Reward": true,
+    "Stats": true
+  }
+}
