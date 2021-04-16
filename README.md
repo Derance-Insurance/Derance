@@ -54,10 +54,10 @@ At launch, tokens distributed to founders, contributors and early members will b
 
 ## Team Members and their Roles 
 - Project Manager - Jimoh Mubarak 
-- Back-end Developers - Jimoh Mubarak, Ziphozanke Makhathini 
+- Back-end Developers - Jimoh Mubarak, Ziphozonke Makhathini 
 - Front-end Developers - Jimoh Mubarak, Tari K, Gaye Dairo 
 - Documentation Team - Vruti Shah, Kenneth Nwaeze 
-- Logo Design and Video production Team - Allen Edward, Keitumetse Makhubela 
+- Logo Design and Video Production Team - Allen Edward, Keitumetse Makhubela 
 - Github Manager - Jimoh Mubarak 
 
 ## Conclusion
