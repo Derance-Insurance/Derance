@@ -52,6 +52,14 @@ At launch, tokens distributed to founders, contributors and early members will b
 - Token holders get discounts from centralised insurance companies.
 - Creation of liquidity pools as NFTs that are tradeable and dividend earning.
 
+## Team Members and their Roles 
+- Project Manager - Jimoh Mubarak 
+- Back-end Developers - Jimoh Mubarak, Ziphozanke Makhathini 
+- Front-end Developers - Jimoh Mubarak, Tari K, Gaye Dairo 
+- Documentation Team - Vruti Shah, Kenneth Nwaeze 
+- Logo Design - Allen Edward, Keitumetse Makhubela 
+- Github Manager - Jimoh Mubarak 
+
 ## Conclusion
 With the above layouts and value propositions, we are devoted to building the Derance Insurance protocol as an architecture for the entire DeFi network, allowing easy access, cost effective and well-regulated insurance to millions of users in the digital era. 
 
