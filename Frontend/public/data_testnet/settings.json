@@ -1,0 +1,26 @@
+{
+  "contracts": {
+    "MemberRoles": "0xEAdDc2f2D1E64645289d1FCba0C229958Bf1e012",
+    "RANCEErc20": "0x6Ecbe1DB9EF729CBe972C83Fb886247691Fb6beb",
+    "NXMaster": "0x2d3b0Ad94ff119c7134a9DA00AdEf01867e0F30c",
+    "NXMToken": "0x2E24F60ce7bBcC54a01ecC1730acfB46eB3B3240",
+    "TokenController": "0xCFF8250047cA06b716fe4A89177Ca99B61c899DD",
+    "Pool1": "0x1dcB12D64dFAB13E856C22Db806b6b16E9f598D0",
+    "MCR": "0xB28E8d2e0434B80Bad0f447A01DD911c17755b61",
+    "wRANCE": "0x2f6A32B60B0d55EdEF9e623A7358f06cbC0c0EDd",
+    "PooledStaking": "0xE736e9b2A602EB8572A63Df37DD045579583990f",
+    "Quotation": "0x4e44116d93aE6C51170f781D6D0f4DE63c6A39cc",
+    "QuotationData": "0x3E528FC44a097e686d9A9eCDEc6B48B9DB08f300",
+    "Claims": "0x71a26478E6197136EeD6Db16d3eD496e399fe85d",
+    "ClaimsData": "0x410d54fdeeA3AEf01088955eb9bb93C81BB6Bd42",
+	"ClaimsReward": "0x957eD10385b295D3F9747dfC8d555e92a7B43EE1"
+  },
+  "networkVersion": 97,
+  "stake": {
+    "minAmountPerContract": 20,
+    "maxAmount": 10
+  },
+  "penaltyRate": 0.975,
+  "quoteapi": "http://api.soteria.fund/v1",
+  "unstakedPendingDay": 90
+}
