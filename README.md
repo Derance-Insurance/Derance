@@ -57,7 +57,7 @@ At launch, tokens distributed to founders, contributors and early members will b
 - Back-end Developers - Jimoh Mubarak, Ziphozanke Makhathini 
 - Front-end Developers - Jimoh Mubarak, Tari K, Gaye Dairo 
 - Documentation Team - Vruti Shah, Kenneth Nwaeze 
-- Logo Design - Allen Edward, Keitumetse Makhubela 
+- Logo Design and video production Team - Allen Edward, Keitumetse Makhubela 
 - Github Manager - Jimoh Mubarak 
 
 ## Conclusion
