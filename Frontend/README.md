@@ -3,7 +3,7 @@
 ## Build setup
 ```
 # clone the project
-git clone https://github.com/devsoteria/sote.git
+git clone https://github.com/Derance-Insurance/Derance.git
 
 # enter the project directory
 cd derance/frontend
