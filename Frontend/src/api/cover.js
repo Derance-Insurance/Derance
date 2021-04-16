@@ -23,7 +23,7 @@ export const getCoverContracts = async (vue) => {
   return contractsRes
 }
 
-// 查询保险报价
+//Check insurance quotes
 export const getQuote = (params) => {
   return request({
     url: `/quote-api/quote`,
@@ -35,7 +35,7 @@ export const getQuote = (params) => {
 export const loadCover = async (vue, cid, isUpdate, contracts)=>{
   const QuotationData = await vue.getContract(QuotationDataContract);
   const instance = QuotationData.getContract().instance; 
-  console.info("读取cover");
+  console.info("Readcover");
   const cacheKey = "member_cover_" + cid;
   let cover = vue.getObjectCache(cacheKey);
   if(cover){
@@ -45,7 +45,7 @@ export const loadCover = async (vue, cid, isUpdate, contracts)=>{
     }
     cover.isCache = true;
     cover.contract = cover.contract ? cover.contract : contracts.find(item=>item.address.toLowerCase() == cover.scAddress.toString().toLowerCase());
-    console.info("完成cover from cache");
+    console.info("carry out cover from cache");
     return cover;
   }
   const [nonStatusCover, statusCover] = await Promise.all([
@@ -67,6 +67,6 @@ export const loadCover = async (vue, cid, isUpdate, contracts)=>{
   cover.contract = contracts ? contracts.find(item=>item.address.toLowerCase() == cover.scAddress.toString().toLowerCase()) : null;
   
   vue.cacheObject(cacheKey, cover);
-  console.info("完成cover");
+  console.info("carry out cover");
   return cover;
 }
