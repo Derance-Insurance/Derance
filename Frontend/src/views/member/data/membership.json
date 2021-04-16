@@ -1,0 +1,16 @@
+{
+
+  "list":[{
+    "title":"You own part of the mutual",
+    "content":"You can buy cover and earn more RANCE by helping run the mutual, including voting on claims, deciding which smart contracts are secure and voting on proposals."
+  },{
+    "title":"Distributed Autonomous Organization",
+    "content":"Derance is a blockchain-based organisation with a legal structure that makes sure the members are not personally liable for the mutual as a whole. To obtain these benefits you need to join the mutual by signing this agreement and paying the membership fee."
+  },{
+    "title":"Membership costs ${memberFee} BNB",
+    "content":"A small membership fee is the mutual requirement."
+  },{
+    "title":"AML",
+    "content":"To become a member, you will need to verify your identity by following the Anti-Money-Laundering process."
+  }]
+}
