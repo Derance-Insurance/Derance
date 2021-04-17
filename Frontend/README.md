@@ -23,11 +23,8 @@ npm run dev
 # enter the project directory
 cd derance/frontend
 
-# build for test environment
-npm run build:stage
-
 # build for production environment
-npm run build:prod
+npm run build
 
 # copy all files to web work dir
 cp -r dist/* /usr/nginx/html
